@@ -1,0 +1,23 @@
+{
+  "name": "script-tools",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "ip-scanning": "zx ./scripts/ip-scanning.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhixiangyao/script-tools.git"
+  },
+  "keywords": [
+    "yys",
+    "script"
+  ],
+  "author": "zhixiangyao",
+  "bugs": {
+    "url": "https://github.com/zhixiangyao/script-tools/issues"
+  },
+  "dependencies": {
+    "zx": "^7.0.0"
+  }
+}
